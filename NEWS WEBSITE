@@ -1,0 +1,26 @@
+<html>
+<head>
+<title>WEBPAGE DESIGN</title>
+</head>
+<style>
+h1 {text-align: center;}
+h2 {text-align: center;}
+</style>
+<body bgcolor="grey">
+<h1><img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT27z4U1i5wcUR_9hDrvWWuCCuIgIWiVAkvhMIhbu_gLA&s height="200" width="400" ><p align="center">NEWS AT A CLICK</h1></p>
+<hr color="red">
+<a href=""></a>
+<p><h2>Welcome to the news website</h2></p>
+<a href="https://en.wikipedia.org/wiki/Bill_Gates" title="Bill gates Wikipedia page">
+<img src="https://www.azquotes.com/picture-quotes/quote-the-internet-is-becoming-the-town-square-for-the-global-village-of-tomorrow-bill-gates-10-73-37.jpg" height="200" align="centre">
+</a>
+<pre><h2>
+Hello user!!
+In this particular website you are able to access many types of news in various languages.
+</pre></h2>
+<h2><pre>
+Please select your required language!
+</pre></h2>
+
+</body>
+</html>
